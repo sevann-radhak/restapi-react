@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.title-message{
+  background-color: #AED6F1;
+}
+
+.body-message{
+  color: black;
+}
